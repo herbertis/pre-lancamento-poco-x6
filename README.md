@@ -1,4 +1,4 @@
-# 🚀 POCO X6 - Pre-Launch Landing Page
+# 🚀 Landing Page de pré-lançamento para o POCO X6
 
 [Preview do Projeto](https://herbertis.github.io/pre-lancamento-poco-x6/)
 
